@@ -1,5 +1,5 @@
-
-Vehicle-Management-System/
+			
+				Vehicle-Management-System/
 				│
 				├── README.md    → Project description & setup guide
 				├── vehicle.sql                    → Database schema & sample data
@@ -16,7 +16,8 @@ Vehicle-Management-System/
 				│       │
 				│       ├── controller/            → Servlet controllers
 				│       │  
-						    ├── LoginServlet.java           	← Handle login requests
+				
+				            ├── LoginServlet.java           	← Handle login requests
 							├── RegisterServlet.java        	← Handle registration
 							├── LogoutServlet.java          	← Handle logout
 							├── DashboardServlet.java       	← Dashboard management
